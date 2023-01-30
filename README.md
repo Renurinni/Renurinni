@@ -1,4 +1,3 @@
-![Header]
 # Hello folks!👋
 
 My name is Renuga.I'm interested in creating beautiful and performant front ends.
