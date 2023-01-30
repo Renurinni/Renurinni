@@ -1,5 +1,4 @@
-![Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2871451-Hello-Folks&psig=AOvVaw3n8xxtsUnv3q4Za67egng8&ust=1675183473113000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjDpPLe7_wCFQAAAAAdAAAAABAu)
-
+![Header]
 # Hello folks!👋
 
 My name is Renuga.I'm interested in creating beautiful and performant front ends.
